@@ -16,4 +16,11 @@ console.log(undefined == 0);
 // === strictly check
 
 console.log("2" === 2);
+console.log("2" === 2);
+
+
+
+
+
+
 
